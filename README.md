@@ -21,6 +21,5 @@ Made with VS Code.
    ```PowerShell
    java ATM
 
-👨‍💻 Author
-
+## 👨‍💻 Author
 Developed by Carlo Dingle
