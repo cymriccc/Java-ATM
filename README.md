@@ -22,4 +22,6 @@ Made with VS Code. Utilizes OOP (Object-Oriented Programming)
    java ATM
 
 ## 👨‍💻 Author
-Developed by Carlo Dingle
+Carlo
+🎓 BSIT-MWA Freshman @ National University – MOA
+💻 Interested in Python, web, and mobile development
