@@ -1,6 +1,6 @@
 # Java-ATM
 ATM Simulation made with Java for Finals Activity in Fundamentals of Programming.
-Made with VS Code.
+Made with VS Code. Utilizes OOP (Object-Oriented Programming)
 
 ## 🛠️ Features
 - View balance  
