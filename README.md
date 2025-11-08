@@ -2,16 +2,22 @@
 ATM Simulation made with Java for Finals Activity in Fundamentals of Programming.
 Made with VS Code. Utilizes OOP (Object-Oriented Programming)
 
+---
+
 ## 🛠️ Features
 - View balance  
 - Deposit and withdraw  
 - Change PIN  
 - Transfer funds between accounts 
 
+---
+
 ## 💾 Installation
 1. Download all files as a zip file.
 2. Extract into a directory.
 3. Open the folder in VS Code
+
+---
 
 ## 🚀 How to Run
 1. Compile the program:
@@ -20,8 +26,14 @@ Made with VS Code. Utilizes OOP (Object-Oriented Programming)
 2. Run the program:
    ```PowerShell
    java ATM
+---
 
 ## 👨‍💻 Author
 Carlo
 🎓 BSIT-MWA Freshman @ National University – MOA
 💻 Interested in Python, web, and mobile development
+
+---
+
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
