@@ -28,9 +28,9 @@ Made with VS Code. Utilizes OOP (Object-Oriented Programming)
    java ATM
 ---
 
-## 👨‍💻 Author
-Carlo
-🎓 BSIT-MWA Freshman @ National University – MOA
+## 🪪 Author
+**Carlo**  
+🎓 BSIT-MWA Freshman @ National University – MOA  
 💻 Interested in Python, web, and mobile development
 
 ---
